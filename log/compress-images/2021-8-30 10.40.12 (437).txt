@@ -1,0 +1,7 @@
+File from: [app/img/src/Discover-sajek-valley 3Castle.png]
+
+File to: [app/img/dest/Discover-sajek-valley 3Castle.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: C:\Users\Администратор\Desktop\ONE\project-gulp\node_modules\pngquant-bin\vendor\pngquant.exe --quality=75-100 -o app/img/dest/Discover-sajek-valley 3Castle.png app/img/src/Discover-sajek-valley 3Castle.png

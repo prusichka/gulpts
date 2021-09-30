@@ -1,0 +1,7 @@
+File from: [app/img/src/main-new.png]
+
+File to: [app/img/dest/main-new.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: C:\Users\Администратор\Desktop\ONE\project-gulp\node_modules\pngquant-bin\vendor\pngquant.exe --quality=75-100 -o app/img/dest/main-new.png app/img/src/main-new.png
