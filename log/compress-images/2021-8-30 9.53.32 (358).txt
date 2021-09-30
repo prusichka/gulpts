@@ -1,8 +1,0 @@
-File from: [app/img/src/Dizin.png]
-
-File to: [app/img/dest/Dizin.png]
-
-Compression algorithm: [pngquant]
-
-Description: Error: Command failed: C:\Users\Администратор\Desktop\ONE\project-gulp\node_modules\pngquant-bin\vendor\pngquant.exe --quality=75-100 -o app/img/dest/Dizin.png app/img/src/Dizin.png
-  error: failed writing image to app/img/dest/Dizin.png (16)
