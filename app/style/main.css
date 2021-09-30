@@ -68,7 +68,7 @@ select {
 }
 /*-------------Normalize-------------*/
 .main-banner {
-    background-image: url(../img/src/bg.png);
+    background-image: url(../img/dest/bg.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;

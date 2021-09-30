@@ -1,0 +1,7 @@
+File from: [app/img/src/sajek.png]
+
+File to: [app/img/dest/sajek.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: C:\Users\Администратор\Desktop\ONE\project-gulp\node_modules\pngquant-bin\vendor\pngquant.exe --quality=75-100 -o app/img/dest/sajek.png app/img/src/sajek.png

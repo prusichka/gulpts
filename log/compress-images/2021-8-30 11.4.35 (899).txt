@@ -1,7 +1,0 @@
-File from: [app/img/src/canada-ontario-niagara-falls-2 1main-new.png]
-
-File to: [app/img/dest/canada-ontario-niagara-falls-2 1main-new.png]
-
-Compression algorithm: [pngquant]
-
-Description: Error: Command failed: C:\Users\Администратор\Desktop\ONE\project-gulp\node_modules\pngquant-bin\vendor\pngquant.exe --quality=75-100 -o app/img/dest/canada-ontario-niagara-falls-2 1main-new.png app/img/src/canada-ontario-niagara-falls-2 1main-new.png
