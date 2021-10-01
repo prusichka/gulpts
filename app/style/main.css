@@ -375,7 +375,7 @@ select {
 footer {
     background-color: #2694990A;
     margin-top: 140px;
-    padding-top:70px;
+    padding:70px 0;
 }
 .footer-nav {
     display: flex;
