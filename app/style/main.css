@@ -573,7 +573,7 @@ footer {
 @media screen and (max-width: 467px) {
     .container {
         width: 100%;
-        padding: 0%;
+        padding: 0 5%;
     }
     .header-content-title {
         font-size: 45px;
@@ -581,8 +581,5 @@ footer {
     }
     .card  {
         max-width: 320px !important;
-    }
-    .footer-nav {
-        justify-content: space-evenly;
     }
 }
