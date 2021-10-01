@@ -27,8 +27,23 @@
     rel="stylesheet"
     href="https://unpkg.com/swiper@7/swiper-bundle.min.css"
     />
+    <script src="https://kit.fontawesome.com/39d40ac944.js" crossorigin="anonymous"></script>
 </head>
 <body>
+    <input type="checkbox" name="check" id="check">
+    <label for="check">
+        <i class="fas fa-bars" style="color: azure; font-size: 33px;" id="open"></i>
+        <i class="fas fa-times" style="color: azure; font-size: 33px;" id="close"></i>
+    </label>
+    <div class="mobile__menu">
+        <ul class="nav-list__mobile">
+            <li class="nav-item"><a href="#">Home</a></li>
+            <li class="nav-item"><a href="#">Location</a></li>
+            <li class="nav-item"><a href="#">Blog</a></li>
+            <li class="nav-item"><a href="#">About</a></li>
+            <li class="nav-item"><a href="#">Contact</a></li>
+        </ul>
+    </div>
 <section class="main-banner">
     <div class="container">
         <div class="nav-desktop">
@@ -83,9 +98,14 @@
         <div class="swiper slider2">
             <div class="swiper-wrapper wrapper-2">
                 <div class="swiper-slide card">
-                    <img src="./img/dest/stanbul.png" alt="stanbul">
-                    <h1 class="card-title">Istanbul, Turkey</h1>
-                    <h2 class="card-subtitle">Istanbul is a major city in Turkey that straddles Europe. </h2>
+                    <img src="./img/dest/kuala.jpg" alt="lumpur">
+                    <h1 class="card-title">Kuala Lumpur, malaysia</h1>
+                    <h2 class="card-subtitle">A 272-step long trek leads you to this century. </h2>
+                </div>
+                <div class="swiper-slide card">
+                    <img src="./img/dest/korea.png" alt="korea">
+                    <h1 class="card-title">Seoul, South Korea</h1>
+                    <h2 class="card-subtitle">South Korea officially the Republic of Korea is a country in East Asia. </h2>
                 </div>
                 <div class="swiper-slide card">
                     <img src="./img/dest/stanbul.png" alt="stanbul">
@@ -147,12 +167,12 @@
                 <div class="card-slide swiper-slide ">
                     <img src="./img/dest/wall.png">
                     <h1>The Great Wall </h1>
-                    <div class="place_mark">
-                        <h2><img src="./img/dest/Vectorplace.svg"> China </h2>
-                        <h2><img src="./img/dest/Star 3.png">4.9</h2>
-                    </div>
-                    <h3>7 Day 8 Nights</h3>
-                    <p><strong>$850</strong>/person</p>
+                        <div class="place_mark">
+                            <h2><img src="./img/dest/Vectorplace.svg"> China </h2>
+                            <h2><img src="./img/dest/Star 3.png">4.9</h2>
+                        </div>
+                        <h3>7 Day 8 Nights</h3>
+                        <p><strong>$850</strong>/person</p>
                 </div>
             </div>
         </div>
@@ -203,6 +223,40 @@
                         <h1>Colourful waters!</h1>
                         <h2>Forest-driven water and energy cycles are poorly.</h2>
                         <a href="#">@jhon7leew</a>
+                    </div>
+                </div>
+            </div>
+            <div class="swiper slider3">
+                <div class="swiper-wrapper wrapper3">
+                    <div class="swiper-slide item-new">
+                        <div class="item-new-img">
+                            <img src="./img/dest/heroshima.png">
+                        </div>
+                        <div class="short-info">
+                            <h1>The Hiroshima Peace!</h1>
+                            <h2>It was formally opened to the public in August that year.</h2>
+                            <a href="#">@shova_bd88</a>
+                        </div>
+                    </div>
+                    <div class="swiper-slide item-new">
+                        <div class="item-new-img">
+                            <img src="./img/dest/india.png">
+                        </div>
+                        <div class="short-info">
+                            <h1>The faithful prayers!</h1>
+                            <h2>A major pilgrimage center for Hindus, the holy city.</h2>
+                            <a href="#">@adem/smith</a>
+                        </div>
+                    </div>
+                    <div class="swiper-slide item-new">
+                        <div class="item-new-img">
+                            <img src="./img/dest/nlake.jpg">
+                        </div>
+                        <div class="short-info">
+                            <h1>Colourful waters!</h1>
+                            <h2>Forest-driven water and energy cycles are poorly.</h2>
+                            <a href="#">@jhon7leew</a>
+                        </div>
                     </div>
                 </div>
             </div>
